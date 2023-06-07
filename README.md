@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello World <a name="about-project"></a>
+# 📖 awesome books <a name="about-project"></a>
 
 > this is Awesome books project we have created using HTML, CSS, Javascript, linters
 
@@ -85,7 +85,7 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 <!-- Features -->
-<p>the project explation </p>
+<p> the project explanation </p>
 
 - coming soon 
 
