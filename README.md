@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <h2> Mohammed Roshdy && nicolas </h2>
+  <h2> Mohammed Roshdy</h2>
   <br/>
 
   <h3><b>Awesome books</b></h3>
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello World <a name="about-project"></a>
+# 📖 awesome books <a name="about-project"></a>
 
 > this is Awesome books project we have created using HTML, CSS, Javascript, linters
 
@@ -85,7 +85,7 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 <!-- Features -->
-<p>the project explation </p>
+<p> the project explanation </p>
 
 - coming soon 
 
@@ -168,11 +168,6 @@ coming soon!
 
 - GitHub: [@githubhandle](https://github.com/MohamedRoshdy2021)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-elkhadragy-2b58b6215/)
-
-👤 Nicolas
-
-- GitHub: [@Zven94](https://github.com/Zven94)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
